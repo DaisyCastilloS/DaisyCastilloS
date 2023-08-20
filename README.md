@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daisy Castillo</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [cursosbootcamp](cursosbootcamp)
+- 🔭 I’m currently working on [cursosbootcampjwtm8](cursosbootcampjwtm8)
 
 - 🌱 I’m currently learning **NodeJS**
 
