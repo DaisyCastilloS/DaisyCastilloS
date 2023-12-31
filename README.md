@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daisy Castillo</h1>
-<h3 align="center">A passionate backend developer from Chile</h3>
+<h3 align="center">A passionate fullstack developer from Chile</h3>
 
 - 🔭 I’m currently working on [Academia-Portato](https://github.com/DaisyCastilloS/Academia-Musical-Portato)
 
