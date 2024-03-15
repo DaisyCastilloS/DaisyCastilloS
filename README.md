@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daisy Castillo</h1>
 <h3 align="center">A passionate backend developer from Chile</h3>
 
-- 🔭 I’m currently working on [EcoVale](https://github.com/DaisyCastilloS/EcoVale/tree/BackendDaisy/server)
+- 🔭 I’m currently working on [EcoVale](https://github.com/DaisyCastilloS/EcoVale)
 
 - 🌱 I’m currently learning **NodeJS**
 
