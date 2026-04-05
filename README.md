@@ -56,6 +56,6 @@ Especialista en la optimización de procesos críticos con +10 años de experien
 </p>
 
 ### 📫 Contacto Profesional
-- **LinkedIn:** [Tu Enlace Aquí](https://www.linkedin.com/in/daisy-castillo-sepulveda/)
-- **Portafolio:** [portafolio-da.vercel.app](https://portafolio-da.vercel.app/)
+- **LinkedIn:** [Daisy Castillo](https://www.linkedin.com/in/daisy-castillo-sepulveda/)
+- **Portafolio:** [Visita mi portafolio](https://portafolio-da.vercel.app/)
 - **Email:** daisyktbpa@gmail.com
