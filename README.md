@@ -1,18 +1,61 @@
-<h1 align="center">Hi 👋, I'm Daisy Castillo</h1>
-<h3 align="center">A passionate backend developer from Chile</h3>
+<h1 align="center">Hola 👋, Soy Daisy Castillo</h1>
+<h3 align="center">Analista Senior de Calidad de Procesos | Arquitecta de Automatización | Soluciones IT Industriales</h3>
 
-- 🔭 I’m currently working on  [Mining-dashboard](https://github.com/DaisyCastilloS/mining-dashboard))]
-
-- 🌱 I’m currently learning **IA**
-
-- 📫 How to reach me **daisyktbpa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Industrial%20Digitalization-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Scalable-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20Strict-blueviolet?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daisycastillos&show_icons=true&locale=en&layout=compact" alt="daisycastillos" /></p>
+### 🚀 Perfil Profesional
 
+Especialista en la optimización de procesos críticos con +10 años de experiencia en entornos industriales de alta precisión. Actualmente diseño y despliego soluciones de **Industria 4.0** que conectan la operación en terreno con la inteligencia de datos.
+
+- 🏗️ **Arquitectura:** Implementación de **Clean Architecture** para sistemas escalables y mantenibles.
+- 🤖 **Automatización:** Orquestación de flujos multi-instancia con **n8n** y **Docker Compose**.
+- 📊 **Visualización:** Desarrollo de Dashboards estratégicos con **ApexCharts** y **Vue 3**.
+- ⚙️ **Calidad de Datos:** Tipado fuerte con **TypeScript (Strict Mode)** para asegurar la integridad en KPIs críticos.
+
+---
+
+### 🛠️ Ecosistema Técnico
+
+#### **Backend & Datos**
+<p align="left">
+  <img src="https://img.shields.io/badge/Hono%20v4-FF0055?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript_Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pino_Logger-005571?style=for-the-badge&logo=pino&logoColor=white" />
+</p>
+
+#### **Frontend & UI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" />
+  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white" />
+</p>
+
+#### **DevOps & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📊 Impacto y Actividad
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daisycastillos&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="DaisyCastilloS Top Langs" />
+</p>
+
+### 📫 Contacto Profesional
+- **LinkedIn:** [Tu Enlace Aquí](https://www.linkedin.com/in/daisy-castillo-sepulveda/)
+- **Portafolio:** [portafolio-da.vercel.app](https://portafolio-da.vercel.app/)
+- **Email:** daisyktbpa@gmail.com
