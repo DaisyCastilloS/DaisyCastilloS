@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Daisy Castillo</h1>
-<h3 align="center">Analista Senior de Calidad de Procesos | Arquitecta de Automatización | Soluciones IT Industriales</h3>
+<h3 align="center">Analista de Calidad y Datos | Automatización de Procesos | Sistemas Digitales Industriales</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Industrial%20Digitalization-blue?style=flat-square" />
