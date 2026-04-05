@@ -24,11 +24,24 @@ Especialista en la optimización de procesos críticos con +10 años de experien
 
 #### **Backend & Datos**
 <p align="left">
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- Runtime -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Hono%20v4-FF0055?style=for-the-badge&logo=hono&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <!-- Base de datos -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Estándares -->
   <img src="https://img.shields.io/badge/TypeScript_Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Observabilidad -->
   <img src="https://img.shields.io/badge/Pino_Logger-005571?style=for-the-badge&logo=pino&logoColor=white" />
 </p>
 
